@@ -28,7 +28,7 @@
     "@types/pify": "0.0.28",
     "gts": "^0.5.4",
     "js-green-licenses": "^0.2.0",
-    "mocha": "^2.5.3",
+    "mocha": "^10.1.0",
     "source-map-support": "^0.4.11",
     "tslint": "^5.2.0",
     "typescript": "^2.5.3"
